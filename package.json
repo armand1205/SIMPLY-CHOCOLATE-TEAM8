@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://armand1205.github.io/Simply-Chocolate/",
+  "homepage": "https://github.com/RamonaMonica/SIMPLY-CHOCOLATE-TEAM8",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Simply-Chocolate/"
+    "build": "parcel build src/*.html --public-url /SIMPLY-CHOCOLATE-TEAM8/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/armand1205/Simply-Chocolate.git"
+    "url": "git+https://github.com/RamonaMonica/SIMPLY-CHOCOLATE-TEAM8.git"
   },
   "keywords": [],
   "author": "Ramona Monica <ramonamonica08@icloud.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/armand1205/Simply-Chocolate/issues"
+    "url": "https://github.com/RamonaMonica/SIMPLY-CHOCOLATE-TEAM8/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
